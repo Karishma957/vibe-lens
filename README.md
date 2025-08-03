@@ -9,7 +9,7 @@ Vibe Lens is an inclusive Flutter app designed to empower individuals who are bo
 ## 🎥 Live Demo
 
 Watch the full demo on YouTube:  
-👉 [Vibe Lens – Accessibility in Action](https://www.youtube.com/watch?v=your_video_id_here)
+👉 [Vibe Lens – Accessibility in Action](https://youtu.be/qXjQO0c8PKE?feature=shared)
 
 ---
 
